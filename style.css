@@ -1,0 +1,1016 @@
+.body{
+    display: block;
+}
+
+
+.Maior{
+    color: rgb(98, 224, 67);
+    border: rgb(72, 240, 49);
+    font-size: 80px;
+    margin-left: 50px;
+    margin-top: -80px;
+}
+
+.coopers{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: 75px;
+    margin-left: 110px;
+    position: relative;
+}
+
+.frase-1{
+    margin-left: 100px;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.frase-2{
+    margin-left: 100px;
+    font-size: 40px;
+    margin-top: -30px;
+    color: rgb(98, 224, 67);
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paragrafo-1{
+    margin-left: 100px;
+    color: gray;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;;
+}
+
+.paragrafo-2{
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paragrafo-3{
+    margin-left: 100px;
+    color: gray;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.botao-1{
+    font-size: 20px;
+    margin-left: 100px;
+    background-color: green;
+    color: white;
+    margin-top: 45px;
+    position: relative;
+    border-radius: 0px;
+    border-color: green;
+}
+
+.botao-2{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    position: relative;
+    border-radius: 0px;
+    border-color: black;
+}
+
+.botao-3{
+    font-size: 20px;
+    margin-left: 1050px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    border-color: white;
+    margin-top: -400px;
+    border-bottom: 400px;
+    border-right: 50px;
+}
+
+.botao-4{
+    font-size: 20px;
+    margin-left: 1225px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    border-radius: 0px;
+    border-color: black;
+    margin-top: -400px;
+}
+
+.Maior-2{
+    font-size: 1200px;
+    margin-left: 1230px;
+    margin-top: -850px;
+    border: 800px;
+    color: rgb(98, 224, 67);
+}
+
+.image-1{
+    width: 200px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 250px;
+}
+
+.image-2{
+    width: 500px;
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 170px;
+}
+
+.botao{
+    color: rgb(98, 224, 67);
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 1800px;
+    margin-top: -80px;
+    border-color: black;
+    background-color: white;
+    font-size: 25px;
+}
+
+.secao{
+    background-color: black;
+    color: white;
+    position: relative;
+    width: 1825px;
+    margin-top: -1300px;
+    margin-left: -10px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 40px;
+}
+
+.secao h1{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 60px;
+}
+
+.secao h2{
+    position: relative;
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: 50px;
+    color: rgb(189, 189, 189);
+}
+
+.number{
+    margin-top: -395px;
+    margin-left: 1290px;
+    position: relative;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 55px;
+    font-size: 23px;
+}
+
+.number h1{
+    position: relative;
+    margin-top: 5px;
+}
+
+.number h2{
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    line-height: 115%;
+    margin-left: 145px;
+    margin-top: -100px;
+}
+
+.number hr{
+    margin-top: -1px;
+    margin-left: -5%;
+    font-size: 50px;
+    position: relative;
+    color: rgb(98, 224, 67);
+    width: 390px;
+    max-height: -60%;
+}
+
+.number h3{
+    margin-top: -50px;
+}
+
+.number-2{
+    margin-top: -20px;
+    margin-left: 1290px;
+    position: relative;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 55px;
+    font-size: 23px;
+}
+
+.number-2 h2{
+    margin-top: -45px;
+    font-size: 27px;
+}
+
+.number-2 h3{
+    margin-top: -96px;
+    margin-left: 150px;
+    line-height: 115%;
+}
+
+.number-2 hr{
+    margin-top: -1px;
+    margin-left: -5%;
+    font-size: 50px;
+    position: relative;
+    color: rgb(98, 224, 67);
+    width: 390px;
+    max-height: -60%;
+}
+
+.number-3{
+    margin-top: -10px;
+    margin-left: 1290px;
+    position: relative;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 55px;
+    font-size: 23px;
+}
+
+.number-3 h2{
+    margin-top: -90;
+    font-size: 27px;
+    color: white;
+    margin-left: 155px;
+    line-height: 115%;
+}
+
+.formas{
+    color: red;
+    margin-top: -5000px;
+}
+
+.imagem2{
+    margin-top: 250px;
+    margin-left: -8%;
+    position: absolute;
+    width: 20%;
+}
+
+.imagem3{
+    margin-top: 350px;
+    margin-left: 12%;
+    position: relative;
+    width: 12%;
+}
+
+.imagem4{
+    margin-left: 40%;
+    margin-top: 390px;
+    position: absolute;
+}
+
+.explica{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 60%;
+    margin-top: -2%;
+    word-spacing: -1px;
+}
+
+.explica h2{
+    color: gray;
+}
+
+.explica-2{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 60%;
+    margin-top: 30px;
+    word-spacing: -1px;
+    font-size: 80%;
+}
+
+.explica-2 b{
+    position: relative;
+    color: rgb(0, 194, 16);
+}
+
+.sugestao{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 13%;
+    margin-left: 210px;
+    position: absolute;
+}
+
+.sugestao h2{
+    color: gray;
+}
+
+
+.sugestao b{
+    color: rgb(0, 194, 16);
+}
+
+
+.alexa{
+    margin-top: 18%;
+    margin-left: 1250px;
+    width: 350px;
+    position: absolute;
+}
+
+.alexa-preto{
+    margin-top: 25%;
+    margin-left: 1110px;
+    width: 350px;
+}
+
+.maps{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 19%;
+    margin-left: 1050px;
+    position: absolute;
+}
+
+.Apple-maps{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 14%;
+    margin-left: 1050px;
+    position: absolute;
+}
+
+.image-maps{
+    margin-top: 50%;
+    position: absolute;
+    width: 125px;
+    margin-left: -10%;
+}
+
+.maps b{
+    color: rgb(0, 194, 16);
+}
+
+.carro{
+    width: 25%;
+    margin-top: 46%;
+    margin-left: -60%;
+    position: absolute;
+}
+
+.verde-2{
+    position: absolute;
+    width: 20%;
+    margin-left: -65%;
+    margin-top: 50%;
+}
+
+
+.Cadastro{
+    display: block;
+    block-size: 980px;
+    margin-top: 45%;
+    margin-left: 5%;
+    border-radius: 10px;
+    border-width: 10px;
+    background-color: black;
+    color: white;
+    width: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Cadastro h1{
+    text-align: center;
+}
+
+.Cadastro h2{
+    text-align: center;
+    background-color:white;
+    color: black;
+    width: 300px;
+    align-items: center;
+    margin-left: 90px;
+    block-size: 25px;
+}
+
+.space{
+    font-size: 50%;
+}
+
+.skill{
+    font-size: 90%;
+    margin-left: 10%;
+}
+
+.skill img{
+    width: -15px;
+}
+
+.Cadastro-2{
+    display: block;
+    block-size: 980px;
+    margin-top: -53%;
+    margin-left: 40%;
+    border-radius: 10px;
+    border-width: 10px;
+    background-color: rgb(184, 184, 184);
+    color: white;
+    width: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Cadastro-2 h1{
+    text-align: center;
+}
+
+.Cadastro-2 h2{
+    text-align: center;
+    color: black;
+    background-color:white;
+    width: 300px;
+    align-items: center;
+    margin-left: 90px;
+    block-size: 25px;
+}
+
+.space-2{
+    font-size: 95%;
+}
+
+.skill-2{
+    font-size: 90%;
+    margin-left: 10%;
+}
+
+.skill-2 img{
+    width: -15px;
+}
+
+.Cadastro-3{
+    display: block;
+    block-size: 980px;
+    margin-top: -53%;
+    margin-left: 74%;
+    border-radius: 10px;
+    border-width: 10px;
+    background-color: black;
+    color: white;
+    width: 25%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.Cadastro-3 h1{
+    text-align: center;
+}
+
+.Cadastro-3 h2{
+    text-align: center;
+    color: black;
+    background-color: white;
+    width: 230px;
+    align-items: center;
+    margin-left: 114px;
+    block-size: 25px;
+}
+
+.space-3{
+    font-size: 95%;
+}
+
+.skill-3{
+    font-size: 90%;
+    margin-left: 10%;
+}
+
+.skill-3 img{
+    width: -15px;
+}
+
+.end{
+    color: white;
+    background-color: black;
+    width: 1910px;
+    margin-left: -10px;
+    margin-top: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+.end h1{
+    margin-left: 43%;
+    margin-top: 1%;
+    position: relative;
+}
+
+.end h2{
+    margin-left: 45%;
+    position: relative;
+}
+
+.end h3{
+    margin-left: 39%;
+    position: relative;
+}
+
+
+
+
+
+@media only screen and (max-device-width: 700px) {
+    .Maior{
+        color: rgb(98, 224, 67);
+        border: rgb(72, 240, 49);
+        font-size: 80px;
+        margin-left: 60px;
+        margin-top: -80px;
+    }
+    
+    .coopers{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 30px;
+        margin-top: 75px;
+        margin-left: 110px;
+        position: relative;
+
+    
+    }
+
+    .botao-1{
+        font-size: 15px;
+        margin-left: 90px;
+        background-color: green;
+        color: white;
+        margin-top: 45px;
+        position: relative;
+        border-radius: 0px;
+        border-color: green;
+    }
+    
+    .botao-2{
+        font-size: 15px;
+        margin-left: 255px;
+        margin-top: -7%;
+        background-color: black;
+        color: white;
+        position: relative;
+        border-radius: 0px;
+        border-color: black;
+        width: 50%;
+    }
+    
+    .frase-1{
+        margin-left: 100px;
+        font-size: 40px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .frase-2{
+        margin-left: 100px;
+        font-size: 20px;
+        margin-top: -30px;
+        color: rgb(98, 224, 67);
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .paragrafos{
+        margin-left: -5px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .botao-3{
+        font-size: 15px;
+        margin-left: 710px;
+        background-color: green;
+        color: white;
+        position: absolute;
+        border-color: white;
+        margin-top: -500px;
+        border-bottom: 400px;
+        border-right: 50px;
+    }
+    
+    .botao-4{
+        font-size: 15px;
+        margin-left: 850px;
+        background-color: black;
+        color: white;
+        position: absolute;
+        width: -25px;
+        border-color: black;
+        margin-top: -500px;
+    }
+    
+    .Maior-2{
+        font-size: 1200px;
+        margin-left: 400px;
+        margin-top: -920px;
+        border: 600px;
+        color: rgb(98, 224, 67);
+    }
+    
+    .botao{
+        color: rgb(98, 224, 67);
+        border-radius: 30px;
+        position: absolute;
+        margin-left: 950px;
+        margin-top: -150px;
+        border-color: black;
+        background-color: white;
+        font-size: 25px;
+    }
+
+    .secao{
+        background-color: black;
+        color: white;
+        position: relative;
+        margin-top: -1300px;
+        margin-left: -10px;
+        font-family: 'Courier New', Courier, monospace;
+        padding: 40px;
+        width: 290%;
+    }
+
+    .secao h1{
+        font-size: 25px;
+    }
+
+    .secao h2{
+        font-size: 15px;
+    }
+
+    .number{
+        margin-top: -1px;
+        margin-left: 590px;
+        position: relative;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        line-height: 55px;
+        font-size: 23px;
+    }
+    
+    .number h1{
+        position: relative;
+        margin-top: -290px;
+    }
+    
+    .number h2{
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        line-height: 110%;
+        margin-left: 145px;
+        margin-top: -100px;
+        line-height: 110%;
+        width: 880px;
+    }
+    
+    .number hr{
+        margin-top: 15px;
+        margin-left: -5%;
+        font-size: 50px;
+        position: relative;
+        color: rgb(98, 224, 67);
+        width: 390px;
+        max-height: -60%;
+    }
+    
+    .number h3{
+        margin-top: -50px;
+    }
+    
+    .number-2{
+        margin-top: 60px;
+        margin-left: 590px;
+        position: relative;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        line-height: 115%;
+        width: 880%;
+        font-size: 23px;
+    }
+
+    .number-2 h1{
+        margin-top: -55px;
+        line-height: 180%;
+    }
+    
+    .number-2 h2{
+        margin-top: -55px;
+        font-size: 27px;
+    }
+    
+    .number-2 h3{
+        margin-top: -85px;
+        margin-left: 150px;
+        line-height: 115%;
+    }
+    
+    .number-2 hr{
+        margin-top: -8px;
+        margin-left: 0%;
+        font-size: 50px;
+        position: relative;
+        color: rgb(98, 224, 67);
+        width: 390px;
+        max-height: -60%;
+    }
+    
+    .number-3{
+        margin-top: -10px;
+        margin-left: 590px;
+        position: relative;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        line-height: 45px;
+        font-size: 23px;
+    }
+    
+    .number-3 h2{
+        margin-top: -120;
+        font-size: 26px;
+        color: white;
+        margin-left: 155px;
+        line-height: 115%;
+        position: relative;
+    }
+
+    .number-3 h3{
+        margin-top: -40;
+        position: relative;
+    }
+
+    .explica{
+        width: 250%;
+        font-family: 'Courier New', Courier, monospace;
+        margin-left: 90%;
+        margin-top: 20%;
+        word-spacing: -5px;
+    }
+    
+    .explica h2{
+        color: gray;
+    }
+
+    .explica-2{
+        font-family: 'Courier New', Courier, monospace;
+        margin-left: 90%;
+        margin-top: 30px;
+        font-size: 80%;
+        width: 350%;
+    }
+    
+    .explica-2 b{
+        position: relative;
+        color: rgb(0, 194, 16);
+    }
+
+    .imagem2{
+        margin-top: -285px;
+        margin-left: 50%;
+        position: relative;
+        width: 100%;
+    }
+    
+    .imagem3{
+        margin-top: 150px;
+        margin-left: 12%;
+        position: relative;
+        width: 80%;
+    }
+    
+    .imagem4{
+        margin-left: 450px;
+        margin-top: 20%;
+        position: relative;
+    }
+
+    .sugestao{
+        font-family: 'Courier New', Courier, monospace;
+        width: 250%;
+        margin-top: 150%;
+        margin-left: 60px;
+        position: absolute;
+    }
+    
+    .sugestao h2{
+        color: gray;
+    }
+    
+    
+    .sugestao b{
+        color: rgb(0, 194, 16);
+    }
+
+    .alexa{
+        margin-top: 15%;
+        margin-left: 650px;
+        width: 350px;
+        position: relative;
+    }
+    
+    .alexa-preto{
+        margin-top: -20%;
+        margin-left: 550px;
+        width: 350px;
+    }
+
+    .maps{
+        font-family: 'Courier New', Courier, monospace;
+        margin-top: 120%;
+        margin-left: 320px;
+        width: 250%;
+        position: absolute;
+    }
+    
+    .Apple-maps{
+        font-family: 'Courier New', Courier, monospace;
+        margin-top: 90%;
+        margin-left: 500px;
+        width: 350%;
+        position: absolute;
+    }
+    
+    .image-maps{
+        margin-top: 90%;
+        position: absolute;
+        width: 90px;
+        margin-left: 200%;
+    }
+    
+    .maps b{
+        color: rgb(0, 194, 16);
+    }
+    
+    .carro{
+        width: 2550%;
+        margin-top: 46%;
+        margin-left: -60%;
+        position: absolute;
+    }
+
+    .mapa{
+        margin-top: 5%;
+    }
+
+    .carro{
+        width: 15%;
+        margin-top: 15%;
+        margin-left: -60%;
+        position: absolute;
+    }
+    
+    .verde-2{
+        position: absolute;
+        width: 20%;
+        margin-left: -65%;
+        margin-top: 50%;
+    }
+
+    .Cadastro{
+        display: block;
+        block-size: 980px;
+        margin-top: 210%;
+        margin-left: 80%;
+        border-radius: 10px;
+        border-width: 10px;
+        background-color: black;
+        color: white;
+        width: 135%;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .Cadastro h1{
+        text-align: center;
+    }
+    
+    .Cadastro h2{
+        text-align: center;
+        background-color:white;
+        color: black;
+        width: 300px;
+        align-items: center;
+        margin-left: 90px;
+        block-size: 25px;
+    }
+    
+    .space{
+        font-size: 50%;
+    }
+    
+    .skill{
+        font-size: 90%;
+        margin-left: 10%;
+    }
+    
+    .skill img{
+        width: -15px;
+    }
+
+    .Cadastro-2{
+        display: block;
+        block-size: 980px;
+        margin-top: 20%;
+        margin-left: 80%;
+        border-radius: 10px;
+        border-width: 10px;
+        background-color: rgb(184, 184, 184);
+        color: white;
+        width: 135%;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .Cadastro-2 h1{
+        text-align: center;
+    }
+    
+    .Cadastro-2 h2{
+        text-align: center;
+        color: black;
+        background-color:white;
+        width: 300px;
+        align-items: center;
+        margin-left: 90px;
+        block-size: 25px;
+    }
+    
+    .space-2{
+        font-size: 95%;
+    }
+    
+    .skill-2{
+        font-size: 90%;
+        margin-left: 10%;
+    }
+    
+    .skill-2 img{
+        width: -15px;
+    }
+
+    .Cadastro-3{
+        display: block;
+        block-size: 980px;
+        margin-top: 20%;
+        margin-left: 80%;
+        border-radius: 10px;
+        border-width: 10px;
+        background-color: black;
+        color: white;
+        width: 135%;
+        font-family: 'Courier New', Courier, monospace;
+    
+    }
+    
+    .Cadastro-3 h1{
+        text-align: center;
+    }
+    
+    .Cadastro-3 h2{
+        text-align: center;
+        color: black;
+        background-color: white;
+        width: 230px;
+        align-items: center;
+        margin-left: 114px;
+        block-size: 25px;
+    }
+    
+    .space-3{
+        font-size: 95%;
+    }
+    
+    .skill-3{
+        font-size: 90%;
+        margin-left: 10%;
+    }
+    
+    .skill-3 img{
+        width: -15px;
+    }
+    
+    .end{
+        color: white;
+        background-color: black;
+        width: 1050px;
+        margin-left: -10px;
+        margin-top: 10%;
+        font-family: 'Courier New', Courier, monospace;
+        align-items: center;
+    }
+    
+    .end h1{
+        margin-left: 33%;
+        margin-top: 1%;
+        position: relative;
+    }
+    
+    .end h2{
+        margin-left: 40%;
+        position: relative;
+    }
+    
+    .end h3{
+        margin-left: 30%;
+        position: relative;
+    }
+    
+    }
+
